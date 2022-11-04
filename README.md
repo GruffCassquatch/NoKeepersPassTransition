@@ -24,7 +24,7 @@ Delete ```NoKeepersPassTransition.dll``` from your Mods folder
 8. Copy this path and the name of the object (Design/Transitions/CanyonRoad). You will use this in your mod to target the object. 
 9. Use this mod (you can download the whole source code and open in Visual Studio, or just read the code here) as a guide for how to make the actual mod. In short, the mod should (a) find the specific game object (note that you can easily make a mod that targets many game objects, or a category of game objects) and then (b) disable/enable/modify it under whatever conditions you like.
 
-## Some other mods that might be helpful to reference:
+## Some other mods that might be helpful to look at:
 [Shelter Temperature Tweaks](https://github.com/GruffCassquatch/ShelterTemperatureTweaks), in this mod I target and modify temperature triggers.  
 [ContainerTweaks](https://github.com/GruffCassquatch/ContainerTweaks), in this mod I mass target various container types and modify them.  
 [Reroll Burnt Buildings](https://github.com/GruffCassquatch/RerollBurntBuildings), in this mod I target random objects (burnt buildings and fishing huts with randomised doors) and implement console commands to "re-roll" them in-game (this is really just enabling/disabling the various object sets).  
