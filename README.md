@@ -28,7 +28,7 @@ Delete ```NoKeepersPassTransition.dll``` from your Mods folder
 [Shelter Temperature Tweaks](https://github.com/GruffCassquatch/ShelterTemperatureTweaks), in this mod I target and modify temperature triggers.  
 [ContainerTweaks](https://github.com/GruffCassquatch/ContainerTweaks), in this mod I mass target various container types and modify them.  
 [Reroll Burnt Buildings](https://github.com/GruffCassquatch/RerollBurntBuildings), in this mod I target random objects (burnt buildings and fishing huts with randomised doors) and implement console commands to "re-roll" them in-game (this is really just enabling/disabling the various object sets).  
-
+Look on [TLD Modlist](https://xpazeman.com/tld-mod-list/) for more mods, there are a lot that might be helpful.     
 ## Feedback, Questions & Troubleshooting
 * I am active on [The Long Dark Modding](https://discord.gg/QvFE7VV4WZ) Discord server
 	* **General questions and feedback:** post in my channel #cass
