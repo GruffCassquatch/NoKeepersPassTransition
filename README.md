@@ -1,7 +1,7 @@
 # NoKeepersPassTransition
 A mod for The Long Dark
 
-A simple demonstaration mod made for Silkroad123 to disable the transition from PV to Keeper's Pass. This is NOT a mod that I intend to maintain.  
+A simple demonstration mod made for Silkroad123 to disable the transition from PV to Keeper's Pass. This is NOT a mod that I intend to maintain.  
 
 ## Requirements: 
 [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe) 
