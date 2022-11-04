@@ -13,7 +13,7 @@ A simple demonstration mod made for Silkroad123 to disable the transition from P
 ## Uninstallation:
 Delete ```NoKeepersPassTransition.dll``` from your Mods folder
 
-## Basic tutorial on making e a mod that disables/enables game objects like this:
+## Basic tutorial on making a mod that disables/enables game objects like this:
 1. Install [Unity Explorer](https://github.com/sinai-dev/UnityExplorer). This is not complicated, it is just like a mod.
 2. OPTIONAL, but recommended: install [Developer Console](https://github.com/FINDarkside/TLD-Developer-Console).
 3. Lanch the game, press F7 to close Unity Exploerer when it pops up. Go to the specific scene the item is in. You can do this quickly using mods, such as [Developer Console](https://github.com/FINDarkside/TLD-Developer-Console) or my [ChooseStartingLocation](https://github.com/GruffCassquatch/ChooseStartingLocation) mod.
@@ -26,7 +26,7 @@ Delete ```NoKeepersPassTransition.dll``` from your Mods folder
 
 ## Some other mods that might be helpful to look at:
 [Shelter Temperature Tweaks](https://github.com/GruffCassquatch/ShelterTemperatureTweaks), in this mod I target and modify temperature triggers.  
-[ContainerTweaks](https://github.com/GruffCassquatch/ContainerTweaks), in this mod I mass target various container types and modify them.  
+[Container Tweaks](https://github.com/GruffCassquatch/ContainerTweaks), in this mod I mass target various container types and modify them.  
 [Reroll Burnt Buildings](https://github.com/GruffCassquatch/RerollBurntBuildings), in this mod I target random objects (burnt buildings and fishing huts with randomised doors) and implement console commands to "re-roll" them in-game (this is really just enabling/disabling the various object sets).  
 Look on [TLD Modlist](https://xpazeman.com/tld-mod-list/) for more mods, there are a lot that might be helpful.     
 ## Feedback, Questions & Troubleshooting
