@@ -3,6 +3,8 @@ A mod for The Long Dark
 
 A simple demonstration mod made for Silkroad123 to disable the transition from PV to Keeper's Pass. This is NOT a mod that I intend to maintain.  
 
+FOR GAME VERSION 2.00 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)
+
 ## Requirements: 
 [MelonLoader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe) 
 
